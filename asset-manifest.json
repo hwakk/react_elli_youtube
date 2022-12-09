@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.b7df1578.css",
-    "main.js": "/static/js/main.7e457cfc.js",
-    "index.html": "/index.html"
+    "main.css": "/react_elli_youtube/static/css/main.b7df1578.css",
+    "main.js": "/react_elli_youtube/static/js/main.08c9046e.js",
+    "index.html": "/react_elli_youtube/index.html"
   },
   "entrypoints": [
     "static/css/main.b7df1578.css",
-    "static/js/main.7e457cfc.js"
+    "static/js/main.08c9046e.js"
   ]
 }

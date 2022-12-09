@@ -7,6 +7,7 @@ import { YoutubeApiProvider } from "./context/YoutubeApiContext";
 const queryClient = new QueryClient();
 
 function App() {
+  console.log("NODE_ENV : " + process.env.NODE_ENV);
   return (
     <>
       <SearchHeader />
